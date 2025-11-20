@@ -1,2 +1,3 @@
-D:\Ansys\MasterThesis\Python\Stand_20.11.2025\Example\K1_N10.00
-D:\Ansys\MasterThesis\Python\Stand_20.11.2025\Example\K1_N15.00
+...\K1_N10.00
+...\K1_N15.00
+
